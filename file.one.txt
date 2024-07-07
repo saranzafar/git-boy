@@ -1,8 +1,12 @@
 This is file one for git course
 This is file two for git course
 
+<<<<<<< HEAD
 add another marketing message section
 
 add fotter note 
 
 2025 is comming
+=======
+2024 is comming no
+>>>>>>> 3adb2e2 (add 2024)
