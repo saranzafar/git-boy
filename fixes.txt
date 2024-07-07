@@ -2,3 +2,5 @@ i am fix file which will be use to fix the bug
 
 a new bux fixed 
 one more bug detected and fixes
+
+4th bug fixed
