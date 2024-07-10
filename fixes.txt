@@ -6,3 +6,5 @@ one more bug detected and fixes
 4th bug fixed
 
 5th bug fixed
+
+fixes some code after creation of pink mode branch 
